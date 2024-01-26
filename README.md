@@ -1,3 +1,4 @@
 # ResearchProject
 
-Code voor het Research Project. 
+Code voor het Research Project.  
+
