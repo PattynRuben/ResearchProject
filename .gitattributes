@@ -3,3 +3,6 @@ Data/Fietsdata/kleinebestanden/fiets_gebruikersprofielen3.json filter=lfs diff=l
 Data/Fietsdata/kleinebestanden/gebruikersprofielen.json filter=lfs diff=lfs merge=lfs -text
 Data/Loopdata/kleinebestanden/routes_volledig.json filter=lfs diff=lfs merge=lfs -text
 Data/Loopdata/kleinebestanden/run_gebruikersprofielen.json filter=lfs diff=lfs merge=lfs -text
+/Data/Volledigedata/runs_with_speed.json filter=lfs diff=lfs merge=lfs -text
+/Data/Volledigedata/Loopdata/runs_with_speed.json filter=lfs diff=lfs merge=lfs -text
+/Data/Volledigedata/Fietsdata/bike_with_speed.json filter=lfs diff=lfs merge=lfs -text
