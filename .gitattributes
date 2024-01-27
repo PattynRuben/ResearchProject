@@ -6,3 +6,7 @@ Data/Loopdata/kleinebestanden/run_gebruikersprofielen.json filter=lfs diff=lfs m
 /Data/Volledigedata/runs_with_speed.json filter=lfs diff=lfs merge=lfs -text
 /Data/Volledigedata/Loopdata/runs_with_speed.json filter=lfs diff=lfs merge=lfs -text
 /Data/Volledigedata/Fietsdata/bike_with_speed.json filter=lfs diff=lfs merge=lfs -text
+/Data/Fietsdata/grotebestanden/bike_gebruikersprofielen2.json filter=lfs diff=lfs merge=lfs -text
+/Data/Loopdata/grotebestanden/looproutes_aangepast.json filter=lfs diff=lfs merge=lfs -text
+/Data/Loopdata/grotebestanden/run_gebruikersprofielen3.json filter=lfs diff=lfs merge=lfs -text
+Data/Fietsdata/grotebestanden/fietsroutes_aangepast_clean.zip filter=lfs diff=lfs merge=lfs -text
